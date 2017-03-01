@@ -1004,5 +1004,11 @@
     "name": "华南理工大学",
     "cmsURL": "http://110.65.10.235/",
     "cmsSys": "zfsoft"
+  },
+  {
+    "name": "重庆大学(仅教务处)",
+    "cmsURL": "http://222.198.128.126/_data/index_login.aspx",
+    "cmsSys": "custom",
+    "libURL": "https://sso.lib.cqu.edu.cn:8949"
   }
 ]
